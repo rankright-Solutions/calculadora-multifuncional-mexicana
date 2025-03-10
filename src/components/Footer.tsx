@@ -47,6 +47,9 @@ const Footer: React.FC = () => {
             <p className="text-sm text-gray-600">
               Los cálculos proporcionados son estimaciones y no constituyen asesoría fiscal o financiera.
             </p>
+            <p className="text-sm text-gray-600 mt-2">
+              Para más recursos fiscales, visite <a href="https://calculadorasat.org" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">CalculadoraSAT</a>.
+            </p>
           </div>
         </div>
         
